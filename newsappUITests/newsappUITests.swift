@@ -2,7 +2,7 @@
 //  newsappUITests.swift
 //  newsappUITests
 //
-//  Created by fârûqî on 1.05.2021.
+//  Created by f4ni on 1.05.2021.
 //
 
 import XCTest

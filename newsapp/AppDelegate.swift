@@ -2,7 +2,7 @@
 //  AppDelegate.swift
 //  newsapp
 //
-//  Created by fârûqî on 1.05.2021.
+//  Created by f4ni on 1.05.2021.
 //
 
 import UIKit
