@@ -10,6 +10,12 @@ target 'newsapp' do
   pod 'SwiftyJSON', '~> 4.0'
   pod 'Kingfisher', '~> 6.0'
   pod 'SwiftLint'
+  pod 'Firebase'
+  pod 'Firebase/Messaging'
+  pod 'Firebase/InAppMessaging'
+  pod 'Firebase/Analytics'
+  pod 'Firebase/Crashlytics'
+
 
   target 'newsappTests' do
     inherit! :search_paths

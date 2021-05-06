@@ -93,7 +93,7 @@ class LocalService {
         if let data = UserDefaults.standard.object(forKey: "readlist") {
             let responseJsonData = JSON(data)
 
-            var obj = try? JSONDecoder().decode([NewsViewModel].self, from: responseJsonData.rawData())
+            let obj = try? JSONDecoder().decode([NewsViewModel].self, from: responseJsonData.rawData())
             
             if nil != obj {
                 var i = 0

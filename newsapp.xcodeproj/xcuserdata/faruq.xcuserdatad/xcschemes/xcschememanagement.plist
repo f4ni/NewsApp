@@ -7,7 +7,35 @@
 		<key>newsapp.xcscheme_^#shared#^_</key>
 		<dict>
 			<key>orderHint</key>
-			<integer>7</integer>
+			<integer>0</integer>
+		</dict>
+	</dict>
+	<key>SuppressBuildableAutocreation</key>
+	<dict>
+		<key>4A12A63426433E150011B0EF</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>4A12A63F26433E150011B0EF</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>4ABE67EA263DCCA8006A959D</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>4ABE6800263DCCA9006A959D</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>4ABE680B263DCCA9006A959D</key>
+		<dict>
+			<key>primary</key>
+			<true/>
 		</dict>
 	</dict>
 </dict>

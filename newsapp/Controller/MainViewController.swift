@@ -136,6 +136,8 @@ class MainViewController: UITableViewController, UISearchResultsUpdating {
         let action = UIContextualAction(style: .normal,
                                         title: "⭐") { [weak self] (action, view, completionHandler) in
                                             LocalService.instance.addNewstoFavorites(news: news)
+                                            self?.favNVController.getFavNews()
+
                                             completionHandler(true)
         }
         action.backgroundColor = .systemBlue
